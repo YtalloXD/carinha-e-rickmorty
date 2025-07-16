@@ -1,5 +1,5 @@
 
-# # Mudar Carinha + Buscador de personagens de Rick & Morty
+## Mudar Carinha + Buscador de personagens de Rick & Morty
 
 Projeto feito com o intuito de uma aplicação que muda de carinha quando o objeto é clicado, onde também é mostrado a quantidade de vezes que a carinha mudou.
 
