@@ -9,7 +9,7 @@ E que também foi incluido o buscador de personagens da série Rick & Morty.
 
 <img width="1288" height="702" alt="image" src="https://github.com/user-attachments/assets/951fa2bb-21a4-4170-bfea-411f410790c8" />
 
-## Instalação
+## Instalação e rodar a aplicação
 
 Instale carinha-mudar nessa forma abaixo:
 
@@ -17,8 +17,12 @@ Instale carinha-mudar nessa forma abaixo:
   git clone https://github.com/YtalloXD/carinha-e-rickmorty
 ```
 ```bash
-  npm install 
+  cd carinha-mudar
 ```
 ```bash
-  cd carinha-mudar
+  npm install 
+```
+- E rode ela:
+```bash
+  npm run dev
 ```
